@@ -1,2 +1,3 @@
 # projektowa_gra
-mini rpg napisany w c/c++ 
+Mini rpg napisany w c/c++, tworze go w celu nauki programowania gier.
+
